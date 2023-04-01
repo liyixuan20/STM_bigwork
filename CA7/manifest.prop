@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-5.10-dunfell-mp1-21-11-17
+KERNEL_DT = ./DeviceTree/homework1/kernel
+OPTEE_DT = ./DeviceTree/homework1/optee-os
+UBOOT_DT = ./DeviceTree/homework1/u-boot
+TFA_DT = ./DeviceTree/homework1/tf-a
